@@ -1,16 +1,35 @@
-## Hi there 👋
+GitHub Profile Setup Guide
+I prepared the files for your new dynamic profile, but I could not create the repository automatically due to permission restrictions with your token.
 
-<!--
-**arun-kumar-2015/arun-kumar-2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Instructions
+1. Create the Repository
+Go to GitHub - Create a new repository.
+Repository name: arun-kumar-2015 (It must match your username exactly).
+Public: Ensure it is set to Public.
+Check "Add a README file".
+Click Create repository.
+2. Update README.md
+Go to your new repository: https://github.com/arun-kumar-2015/arun-kumar-2015.
+Click the Pencil icon to edit 
 
-Here are some ideas to get you started:
+README.md
+.
+Copy the content from the file linked below (
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PROFILE_README.md
+) and paste it into the editor, replacing everything.
+Click Commit changes.
+3. Add Snake Animation (Optional)
+In your repository, click Add file -> Create new file.
+Name the file: .github/workflows/snake.yml.
+Copy the content from the file linked below (
+
+snake.yml
+) and paste it in.
+Click Commit changes.
+Go to the Actions tab in your repository and verify the workflow runs (it might take a few minutes or require a manual trigger).
+Files
+
+New README Content
+
+Snake Workflow
