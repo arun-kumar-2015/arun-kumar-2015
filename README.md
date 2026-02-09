@@ -1,198 +1,240 @@
 ﻿<div align="center">
-  
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Vishnu%20Vardhan&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descSize=20&descAlignY=55"/>
 
-<!-- Animated Intro -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=100&lines=%F0%9F%91%8B+Welcome+to+my+Digital+Garden!;Where+Code+Meets+Creativity+%E2%9C%A8" alt="Typing SVG" /></a>
+<!-- Animated Header with Cyberpunk Style -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:845EC2,100:00C9A7&height=220&section=header&text=Arun%20Kumar&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=🚀%20Full%20Stack%20Developer%20|%20Code%20Artisan%20|%20Tech%20Explorer&descSize=18&descAlignY=55"/>
 
-<br/>
-
-<!-- Animated Skills Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=FFA07A&center=true&vCenter=true&random=false&width=600&lines=Flutter+%F0%9F%92%99+Developer;Python+%F0%9F%90%8D+Enthusiast;AI+%F0%9F%A4%96+Builder;Open+Source+%E2%9D%A4%EF%B8%8F+Contributor" alt="Skills" />
+<!-- Matrix-style Typing -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=80&lines=console.log(%22Welcome+to+my+Digital+Universe!%22);" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- ≡ƒÉì SNAKE ANIMATION -->
+<!-- Animated Role Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=1500&pause=300&color=FF6B9D&center=true&vCenter=true&width=700&lines=⚡+JavaScript+Wizard;🎨+Frontend+Architect;🔧+Backend+Builder;🌐+Full+Stack+Engineer;🤖+Automation+Enthusiast" alt="Roles" />
+
+<br/><br/>
+
+<!-- Animated Snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arun-kumar-2015/arun-kumar-2015/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arun-kumar-2015/arun-kumar-2015/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/arun-kumar-2015/arun-kumar-2015/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
 
+<!-- Neon Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<!-- 🏆 GITHUB TROPHIES -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3orifgBLmn1FiC5DUc/giphy.gif" width="35"/> 
+  Achievement Showcase
+</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arun-kumar-2015&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" width="100%"/>
+</div>
+
 <br/>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<!-- Neon Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> About Me
+<!-- ABOUT ME SECTION -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="35"/>
+  Who Am I?
+</h2>
 
-<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<table align="center">
+<tr>
+<td width="50%">
 
-```javascript
-const vishnu = {
-    pronouns: "he" | "him",
-    location: "India ≡ƒç«≡ƒç│",
-    education: "3rd Year CS Student ≡ƒÄô",
-    
-    currentlyBuilding: "GenAI Applications",
-    currentlyLearning: ["LLM Agents", "RAG", "System Design"],
-    
-    askMeAbout: ["Flutter", "Python", "AI/ML", "Web Dev"],
-    
-    funFact: "I believe bugs are just features in disguise! ≡ƒÉ¢Γ£¿"
+```typescript
+interface Developer {
+  name: string;
+  role: string[];
+  location: string;
+  status: string;
+}
+
+const arunKumar: Developer = {
+  name: "Arun Kumar",
+  role: [
+    "Full Stack Developer",
+    "UI/UX Enthusiast",
+    "Open Source Contributor"
+  ],
+  location: "India 🇮🇳",
+  status: "Building the future, one commit at a time"
 };
 ```
 
-<br clear="right"/>
+</td>
+<td width="50%">
 
-<!-- Fun Facts Section -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="100"/>
+
+### Quick Facts
+
+🔭 **Working on:** Full Stack Projects  
+🌱 **Learning:** React, Node.js, Cloud  
+⚡ **Fun fact:** I debug with console.log  
+🎯 **Goal:** Build impactful products  
+☕ **Fuel:** Coffee + Lo-fi beats  
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Neon Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<!-- TECH STACK -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"/>
+  Tech Universe
+</h2>
+
 <div align="center">
-  
-### ≡ƒÄ▓ Fun Facts About Me
-  
-| ≡ƒÄ« | ≡ƒÄ╡ | Γÿò | ≡ƒîÖ |
-|:---:|:---:|:---:|:---:|
-| Gamer at heart | Lo-fi while coding | Coffee addict | Night owl coder |
+
+### 🎨 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 </div>
 
 <br/>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<!-- Neon Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3ze55tfo6oe&rid=giphy.gif" width="30px"/> Tech Arsenal
-
-<div align="center">
-
-### ≡ƒÆ╗ Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,dart,ts,js,cpp&theme=dark" />
-</p>
-
-### ≡ƒÜÇ Frameworks & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,tensorflow,firebase&theme=dark" />
-</p>
-
-### Γÿü∩╕Å Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,gcp,vercel,git,github&theme=dark" />
-</p>
-
-</div>
-
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/> GitHub Analytics
+<!-- GITHUB ANALYTICS -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"/>
+  GitHub Analytics
+</h2>
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rythamo8055&theme=radical" width="90%"/>
+<!-- Profile Summary -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arun-kumar-2015&theme=tokyonight" width="95%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rythamo8055&theme=radical" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rythamo8055&theme=radical&utcOffset=5.5" height="180"/>
+<!-- Stats Row -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arun-kumar-2015&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=FF6B9D&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun-kumar-2015&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9A7&text_color=FFFFFF"/>
 
 <br/><br/>
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=Rythamo8055&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FFA07A&currStreakLabel=FF6B9D" height="180"/>
+<img src="https://streak-stats.demolab.com?user=arun-kumar-2015&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9A7&fire=FF6B9D&currStreakLabel=00C9A7&sideLabels=FFFFFF" height="200"/>
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rythamo8055&custom_title=Vishnu's%20Contribution%20Graph&bg_color=0D1117&color=FF6B9D&line=FFA07A&point=FFFFFF&area_color=FF6B9D&title_color=FF6B9D&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arun-kumar-2015&custom_title=📊%20Contribution%20Timeline&bg_color=0D1117&color=00C9A7&line=FF6B9D&point=FFFFFF&area_color=845EC2&title_color=00C9A7&area=true&hide_border=true" width="98%"/>
 
 </div>
 
 <br/>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<!-- Neon Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"/> Featured Creations
-
-<div align="center">
-
-| ≡ƒÜÇ Project | ≡ƒô¥ Description | ≡ƒ¢á∩╕Å Tech |
-|------------|----------------|---------|
-| [**agentic_ui**](https://github.com/Rythamo8055/agentic_ui) | Flutter GenUI App with Google Generative AI | Flutter, Dart, Gemini |
-| [**vishnu-CNN**](https://github.com/Rythamo8055/vishnu-CNN) | CNN Classification Project | Python, TensorFlow |
-| [**rythamo-charity**](https://github.com/Rythamo8055/rythamo-charity) | App bridging donors with orphanages | Flutter, Firebase |
-| [**rag**](https://github.com/Rythamo8055/rag) | RAG Implementation | Python, LangChain |
-| [**career-compass**](https://github.com/Rythamo8055/career-compass) | Career guidance tool | TypeScript, Next.js |
-| [**chatbot**](https://github.com/Rythamo8055/chatbot) | AI Conversational Bot | Python |
-
-</div>
-
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## ≡ƒÄ» Current Focus
+<!-- FEATURED PROJECTS -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"/>
+  Featured Creations
+</h2>
 
 <div align="center">
 
-```text
-≡ƒö¡ Currently working on    ΓåÆ  GenAI-powered Flutter applications
-≡ƒî▒ Currently learning      ΓåÆ  LLM Agents, RAG Systems, System Design
-≡ƒæ» Looking to collaborate  ΓåÆ  Open source AI/ML projects
-≡ƒÆ¼ Ask me about           ΓåÆ  Flutter, Python, AI/ML, Full Stack Dev
-ΓÜí Fun fact               ΓåÆ  I can debug code faster with lo-fi music! ≡ƒÄº
-```
-
-</div>
-
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"/> Let's Connect!
-
-<div align="center">
-  
-<a href="https://linkedin.com/in/vishnu-vardhan8055" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://github.com/arun-kumar-2015/Weather_Dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arun-kumar-2015&repo=Weather_Dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=FF6B9D"/>
 </a>
-<a href="https://vishnuvardhanm.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="mailto:vishnuvardhanthe8055@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+
+</div>
+
+<br/>
+
+<!-- Neon Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<!-- SPOTIFY / QUOTE SECTION -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35"/>
+  Daily Inspiration
+</h2>
+
+<div align="center">
+
+<!-- Random Dev Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
+
+<br/><br/>
+
+<!-- Random Dev Meme -->
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&bgColor=0D1117&qColor=00C9A7&aColor=FF6B9D" alt="Jokes Card"/>
+
+</div>
+
+<br/>
+
+<!-- Neon Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<!-- CONNECT SECTION -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"/>
+  Let's Connect!
+</h2>
+
+<div align="center">
+
+<a href="https://github.com/arun-kumar-2015" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=Rythamo8055&style=for-the-badge&color=FF6B9D&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/Rythamo8055?style=for-the-badge&color=FFA07A&labelColor=0D1117" alt="Followers"/>
-
-<br/><br/>
-
-<!-- Fun Joke -->
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&bgColor=0D1117" alt="Jokes Card" />
+<!-- Profile Stats -->
+<img src="https://komarev.com/ghpvc/?username=arun-kumar-2015&style=for-the-badge&color=00C9A7&label=VISITORS"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/arun-kumar-2015?style=for-the-badge&color=FF6B9D&labelColor=0D1117&label=FOLLOWERS"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/arun-kumar-2015?style=for-the-badge&color=845EC2&labelColor=0D1117&label=STARS"/>
 
 </div>
 
 <br/>
 
 <!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:845EC2,100:FF6B9D&height=150&section=footer&animation=twinkling"/>
 
 <div align="center">
-  
-### Γ£¿ *"Stay Hungry. Stay Foolish."* Γ£¿
+
+### ⚡ *"Code is poetry written in logic"* ⚡
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="50"/>
 
 </div>
